@@ -4,9 +4,9 @@ A method is proposed which is a multi-scale feature representation based on the 
 # Start
 ## 1. Dependencies installation & data preparation
 Please refer to [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) to prepare the environment and data  step by step. You need to GPUs whose memory is  **nearly 64G** to train the model.
-## Train
+## 2. Train
 
-## Test
+## 3. Test
 
 # Citations
 If you use our code or models in your research, please give it a star or cite with:
